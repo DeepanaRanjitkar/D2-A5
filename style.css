@@ -6,31 +6,31 @@
 }
 .blue{
     background-color: blue;
-    width: 10%;
+    width: 5%;
     height: 10vh;
     float: right;
 }
 
 .red{
     background-color:red ;
-    width: 10%;
+    width: 5%;
     height: 10vh;
-    margin-top: 10%;
+    margin-top: 10vh;
     float: right;
 }
 
 .green{
     background-color: green;
-    width: 10%;
+    width: 5%;
     height: 10vh;
-    margin-top: 20%;
+    margin-top: 20vh;
     float: right;
 }
 
 .yellow{
     background-color: yellow;
-    width: 10%;
+    width: 5%;
     height: 10vh;
-    margin-top: 30%;
+    margin-top: 30vh;
     float: right
 }
